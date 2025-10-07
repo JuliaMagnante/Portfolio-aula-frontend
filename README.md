@@ -22,3 +22,4 @@ O portfólio inclui as seguintes seções:
 4.⁠ ⁠*Contato* – Formulário de contato funcional, pronto para futura integração com backend.  
 
 ## 🌐 Visualização online
+https://juliamagnante.github.io/Portfolio-aula-frontend/
